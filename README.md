@@ -1,9 +1,4 @@
 # CreditCardOCR-Vision
-Here's a suggested README file based on the details from your document about the machine vision project, presented in English:
-
-```markdown
-# Machine Vision Project: Credit Card Number Recognition
-
 This project is developed as part of the Machine Vision course in the Artificial Intelligence group at the Computer Engineering faculty. It utilizes Optical Character Recognition (OCR) techniques to accurately recognize and extract credit card numbers from images.
 
 ## Table of Contents
