@@ -48,12 +48,3 @@ The project effectively recognizes digits from various credit card images under 
 
 ## Further Work
 Further improvements could include refining the parameter tuning for recognizing digits in more complex backgrounds and under varied lighting conditions. Exploring additional image preprocessing techniques could also enhance the robustness of the OCR process.
-
-## Credits
-Project developed by:
-- Shamim Golafshan
-
-For more detailed technical insights and discussions, refer to the comments and documentation within the codebase.
-```
-
-This README provides a structured overview of your project, instructions on how to get started, and details about the technologies used. It also sets the stage for potential further developments.
