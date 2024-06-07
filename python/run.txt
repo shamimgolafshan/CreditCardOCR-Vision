@@ -1,0 +1,7 @@
+python ocr_class_based.py  --image images/credit_card_01.png --reference ocr_a_reference.png
+
+python ocr_class_based.py  --image images/credit_card_01.png --reference ocr_a_reference.png
+
+
+
+
