@@ -48,3 +48,7 @@ The project effectively recognizes digits from various credit card images under 
 
 ## Further Work
 Further improvements could include refining the parameter tuning for recognizing digits in more complex backgrounds and under varied lighting conditions. Exploring additional image preprocessing techniques could also enhance the robustness of the OCR process.
+
+## Credit
+For this project, I used the code of this website:
+https://pyimagesearch.com/2021/11/22/improving-ocr-results-with-basic-image-processing/
